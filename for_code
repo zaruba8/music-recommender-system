@@ -1,0 +1,6 @@
+git lfs install
+git lfs track "music_recommendation_system_code"
+git add .gitattributes
+git add music_recommendation_system_code
+git commit -m "Add large file with LFS"
+git push origin main
