@@ -31,6 +31,7 @@ The work consists of several stages:
 4. Сreating an interface for testing the model on real users
 5. Evaluation of results and summing up
 
+just in case link to another file with code: https://drive.google.com/file/d/1ECrDZjE0ShHigLi-xaDkwa3d8Z_Zug7R/view?usp=drive_link
 ```bash
 git clone https://github.com/zaruba8/music-recommender-system.git
 cd music-recommender-system
